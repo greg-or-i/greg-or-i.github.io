@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: #24FA00;
+}
+a:hover {
+  color: #ADFF9B;
+}
